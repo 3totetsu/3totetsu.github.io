@@ -3,4 +3,11 @@ body｛
  parding: 0;
  font-family: serif;
  background-color: 165e83;
-｝
+ ｝
+
+header-area｛
+ position: relative;
+ width: 250px;
+ height: 100px;
+ over-flow: hidden;
+ ｝
