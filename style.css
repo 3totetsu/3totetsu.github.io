@@ -7,7 +7,7 @@ body｛
 
 header-area｛
  position: relative;
- width: 250px;
- height: 100px;
+ width: 100px;
+ height: 250px;
  over-flow: hidden;
  ｝
