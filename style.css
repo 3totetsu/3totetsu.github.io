@@ -11,7 +11,7 @@ body{
  width: 200%;
  height: 800%;
  object-fit: cover;
- object-positon: left top;
+ object-position: left top;
 }
 
 .header-area{
@@ -25,7 +25,7 @@ body{
  position: absolute;
  top: 50%;
  left: 50%;
- transform: transrate(-50%, -50%);
+ transform: translate(-50%, -50%);
  color: #165e83;
  font-size: 28px;
  margin: 0;
