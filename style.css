@@ -2,7 +2,16 @@ body{
  margin: 0;
  padding: 0;
  font-family: serif;
- background-color: 165e83;
+}
+
+.header-img{
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 200%;
+ height: 800%;
+ object-fit: cover;
+ object-positon: left top;
 }
 
 .header-area{
