@@ -9,7 +9,7 @@ body{
  top: 0;
  left: 0;
  width: 200%;
- height: 16/5%;
+ height: 300%;
  object-fit: cover;
  object-position: left top;
 }
@@ -30,10 +30,12 @@ body{
  font-size: 28px;
  margin: 0;
  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+ white-space: nowrap;
 }
 
 .main-content{
  padding: 20px;
  max-width: 800px;
  margin: 0 auto;
+ line-height: 1.6;
 }
