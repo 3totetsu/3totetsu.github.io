@@ -27,7 +27,7 @@ body{
  left: 50%;
  transform: translate(-50%, -50%);
  color: #000000;
- font-size: clamp;(20px, 4vw ,48px);
+ font-size: 40px;
  margin: 0;
  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
  white-space: nowrap;
